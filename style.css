@@ -1,0 +1,41 @@
+body{
+    background: #d2e1c8;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #0b032d;
+    box-sizing: border-box;
+    
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left:0;
+    margin: 0;
+    }
+.photoshoot{
+    width: 25%;
+    display: block;
+    height: auto;
+    float: left;
+    margin: 1em;
+    padding:1em;
+}
+h1{
+    text-shadow: 0.1em 0.1em 0.05em rgb(162, 155, 163);
+   
+}
+button{
+    background:#5f1854;
+    color:#d2e1c8;
+     padding: 10px 50px;
+     border-radius: 10px;
+      
+   }
+   
+   button:hover{
+   background-color: #283149;
+     color: white
+    
+   } 
+ 
